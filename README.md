@@ -1,4 +1,9 @@
 # arquitectura-agil-experimento-1
+
+## link del video
+[Link del video:](https://uniandes-my.sharepoint.com/:v:/g/personal/m_olaya11_uniandes_edu_co/Eaas9ppA0ZVGt5ElnBQIGqcB93pmxeeM9-bCdih5R_6VZA?e=sjJJXG)
+
+
 ## step #1
 start kafka and zookeeper with the command
 ```
