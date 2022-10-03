@@ -1,6 +1,6 @@
 [
     {"id": "db0be662-acc0-42ff-aecf-7995e250b0ad","permissions": ["notification"]},
-    {"id": "72bb7d3d-9a7a-45ec-8aad-c26323d0fd43","permissions": ["notification"]},
+    {"id": "72bb7d3d-9a7a-45ec-8aad-c26323d0fd43","permissions": ["rules"]},
     {"id": "dfbe717f-1b01-41ac-9fac-2593be371edf","permissions": ["notification"]},
     {"id": "f9197033-b507-472a-a2a0-895751555a96","permissions": ["notification"]},
     {"id": "163b77a1-c6d3-4067-9c98-94653596e072","permissions": ["notification"]},
